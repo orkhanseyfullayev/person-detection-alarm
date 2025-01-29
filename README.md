@@ -57,7 +57,6 @@ pip install ultralytics opencv-python
 📂 person-detection-alarm
 ├── main.py           # Main script for person detection and email alerts
 ├── README.md         # Project documentation
-└── requirements.txt  # Python dependencies
 ```
 
 ---
