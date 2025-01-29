@@ -31,7 +31,7 @@ pip install ultralytics opencv-python
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/person-detection-alarm.git
+   git clone https://github.com/orkhanseyfullayev/person-detection-alarm
    cd person-detection-alarm
    ```
 
